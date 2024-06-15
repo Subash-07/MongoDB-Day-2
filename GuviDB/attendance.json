@@ -1,0 +1,51 @@
+[
+    {
+      "topic": "JS-Day1",
+      "status": "completed",
+      "mentor": "Saravanan",
+      "Date": "2020-10-16",
+      "absentees": 3
+    },
+    {
+      "topic": "JS-Day2",
+      "status": "completed",
+      "mentor": "Saravanan",
+      "Date": "2020-10-17",
+      "absentees": 3
+    },
+    {
+      "topic": "JS-Day3",
+      "status": "completed",
+      "mentor": "Saravanan",
+      "Date": "2020-10-18",
+      "absentees": 5
+    },
+    {
+      "topic": "JS-Day4",
+      "status": "completed",
+      "mentor": "Saravanan",
+      "Date": "2020-10-19",
+      "absentees": 6
+    },
+    {
+      "topic": "JS-Day5",
+      "status": "completed",
+      "mentor": "Saravanan",
+      "Date": "2020-10-20",
+      "absentees": 10
+    },
+    {
+      "topic": "JS-Day6",
+      "status": "completed",
+      "mentor": "Sanjay",
+      "Date": "2020-10-21",
+      "absentees": 12
+    },
+    {
+      "topic": "JS-Day7",
+      "status": "completed",
+      "mentor": "Sanjay",
+      "Date": "2020-10-22",
+      "absentees": 8
+    }
+  ]

@@ -1,0 +1,44 @@
+
+[
+    {
+      "company_name": "TCS",
+      "company_address": "Chennai",
+      "placement_Date": "2020-09-30"
+    },
+    {
+      "company_name": "CTS",
+      "company_address": "Bangalore",
+      "placement_Date": "2020-10-15"
+    },
+    {
+      "company_name": "Wipbroker",
+      "company_address": "Bangalore",
+      "placement_Date": "2020-10-18"
+    },
+    {
+      "company_name": "CTS",
+      "company_address": "Coimbatore",
+      "placement_Date": "2020-10-15"
+    },
+    {
+      "company_name": "Es Magico",
+      "company_address": "Bangalore",
+      "placement_Date": "2020-10-19"
+    },
+    {
+      "company_name": "Metricoid Technology Solutions",
+      "company_address": "Chennai",
+      "placement_Date": "2020-10-18"
+    },
+    {
+      "company_name": "Metricoid Technology Solutions",
+      "company_address": "Chennai",
+      "placement_Date": "2020-10-18"
+    },
+    {
+      "company_name": "AdroitIQ",
+      "company_address": "Chennai",
+      "placement_Date": "2020-10-18"
+    }
+  ]
+  

@@ -1,0 +1,157 @@
+[
+    {
+        "name": "Rajganesh",
+        "age": 25,
+        "gender": "Male",
+        "email" : "rajganesh@gmail.com",
+        "codeKata": 30,
+        "attendance": "80%",
+        "attendedPlacement" : "No"
+
+    },
+    {
+        "name": "Anu",
+        "age": 23,
+        "gender": "Female",
+        "email" : "Anu@gmail.com",
+        "codeKata": 40,
+        "attendance": "80%",
+        "attendedPlacement" : "No"
+    },
+    {
+        "name": "Christopher",
+        "age": 23,
+        "gender": "Male",
+        "email" : "Alwin@gmail.com",
+        "codeKata": 50,
+        "attendance": "85%",
+        "attendedPlacement" : "No"
+    },
+    {
+        "name": "Diaona",
+        "age": 24,
+        "gender": "Female",
+        "email" : "Nithya@gmail.com",
+        "codeKata": 20,
+        "attendance": "90%",
+        "attendedPlacement" : "No"
+    },
+    {
+        "name": "Aishwarya",
+        "age": 25,
+        "gender": "Female",
+        "email" : "Aishwarya@gmail.com",
+        "codeKata": 60,
+        "attendance": "90%",
+        "attendedPlacement" : "No"
+    },
+    {
+        "name": "Ram",
+        "age": 23,
+        "gender": "Male",
+        "email" : "Alwin@gmail.com",
+        "codeKata": 80,
+        "attendance": "80%",
+        "attendedPlacement" : "No"
+    },
+    {
+        "name": "Azar",
+        "age": 23,
+        "gender": "Male",
+        "email" : "Ram@gmail.com",
+        "codeKata": 130,
+        "attendance": "80%",
+        "attendedPlacement" : "No"
+    },
+    {
+        "name": "Chris",
+        "age": 24,
+        "gender": "Male",
+        "email" : "Chris@gmail.com",
+        "codeKata": 130,
+        "attendance": "80%",
+        "attendedPlacement" : "Yes"
+    },
+    {
+        "name": "Sivaprakash",
+        "age": 23,
+        "gender": "Male",
+        "email" : "Sivaprakash@gmail.com",
+        "codeKata": 80,
+        "attendance": "90%",
+        "attendedPlacement" : "Yes"
+    },
+    {
+        "name": "Vivek",
+        "age": 24,
+        "gender": "Male",
+        "email" : "Vivek@gmail.com",
+        "codeKata": 30,
+        "attendance": "80%",
+        "attendedPlacement" : "No"
+    },
+    {
+        "name": "Justin",
+        "age": 30,
+        "gender": "Male",
+        "email" : "Justin@gmail.com",
+        "codeKata": 100,
+        "attendance": "80%",
+        "attendedPlacement" : "Yes"
+    },
+    {
+        "name": "Rashmi",
+        "age": 25,
+        "gender": "Female",
+        "email" : "Rashmi@gmail.com",
+        "codeKata": 30,
+        "attendance": "80%",
+        "attendedPlacement" : "No"
+    },
+    {
+        "name": "Mirlani",
+        "age": 30,
+        "gender": "Female",
+        "email" : "Mirlani@gmail.com",
+        "codeKata": 300,
+        "attendance": "75%",
+        "attendedPlacement" : "Yes"
+    },
+    {
+        "name": "Shankar",
+        "age": 30,
+        "gender": "Male",
+        "email" : "Shankar@gmail.com",
+        "codeKata": 10,
+        "attendance": "50%",
+        "attendedPlacement" : "No"
+    },
+    {
+        "name": "Arunkarthik",
+        "age": 30,
+        "gender": "Male",
+        "email" : "Arunkarthik@gmail.com",
+        "codeKata": 20,
+        "attendance": "70%",
+        "attendedPlacement" : "No"
+    },
+    {
+        "name": "Ramprakash",
+        "age": 33,
+        "gender": "Male",
+        "email" : "Ramprakash@gmail.com",
+        "codeKata": 79,
+        "attendance": "85%",
+        "attendedPlacement" : "Yes"
+    },
+    {
+        "name": "Naveen",
+        "age": 29,
+        "gender": "Female",
+        "email" : "Mirlani@gmail.com",
+        "codeKata": 40,
+        "attendance": "80%",
+        "attendedPlacement" : "No"
+    }
+
+]

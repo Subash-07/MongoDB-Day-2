@@ -1,0 +1,67 @@
+[
+    {
+      "task_name": "JS-Day1 - Intro to Browser",
+      "Date": "1999-12-31",
+      "mentor": "Saravanan",
+      "status" : "completed",
+      "completed": 15,
+      "notCompleted": 3,
+      "totalStudents": 17 
+
+    },
+    {
+      "task_name": "JS-Day2 - XMLHttpRequest",
+      "Date": "1999-12-31",
+      "status": "completed",
+      "mentor": "Saravanan",
+      "completed": 15,
+      "notCompleted": 3,
+      "totalStudents": 17 
+    },
+    {
+      "task_name": "JS-Day3 - Function",
+      "Date": "2020-10-18",
+      "status": "completed",
+      "mentor": "Saravanan",
+      "completed": 10,
+      "notCompleted": 7,
+      "totalStudents": 17 
+    },
+    {
+      "task_name": "JS-Day4 - Async Functions",
+      "Date": "2020-10-19",
+      "status": "completed",
+      "mentor": "Saravanan",
+      "completed": 16,
+      "notCompleted": 1,
+      "totalStudents": 17 
+    },
+    {
+      "task_name": "JS-Day5 - API",
+      "Date": "2020-10-20",
+      "status": "completed",
+      "mentor": "Saravanan",
+      "completed": 12,
+      "notCompleted": 5,
+      "totalStudents": 17 
+    },
+    {
+      "task_name": "JS-Day6 - DOM",
+      "Date": "2020-10-21",
+      "status": "completed",
+      "mentor": "Sanjay",
+      "completed": 17,
+      "notCompleted": 0,
+      "totalStudents": 17 
+    },
+    {
+      "task_name": "JS-Day7 - Array Methods",
+      "Date": "2020-10-22",
+      "status": "completed",
+      "mentor": "Sanjay",
+      "completed": 12,
+      "notCompleted": 5,
+      "totalStudents": 17 
+    }
+  ]
+  

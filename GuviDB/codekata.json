@@ -1,0 +1,28 @@
+
+[
+    {
+        "topic": "Input/Output",
+        "numberOfProblems": 10,
+        "geekCoins": 540
+    },
+    {
+        "topic": "Absolute Beginner",
+        "numberOfProblems": 30,
+        "geekCoins": 570
+    },
+    {
+        "topic": "Array",
+        "numberOfProblems": 308,
+        "geekCoins": 16310 
+    },
+    {
+        "topic": "Mathematics",
+        "numberOfProblems": 192,
+        "geekCoins": 8810
+    },
+    {
+        "topic": "Strings",
+        "numberOfProblems": 196,
+        "geekCoins": 10040
+    }
+]
